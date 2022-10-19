@@ -8,6 +8,9 @@
       <a href="https://www.behance.net/itzelgil" target="_blank">
       <img src="https://img.shields.io/badge/Behance-000000?style=flat&logo=behance&logoColor=white" alt="Behance Badge"/>
       </a>
+      <a href="https://itzel-gil-portfolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/My%20Portfolio-CCCCFF?style=flat&logoColor=white" />
+      </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=itzelgil" />
     <h1>
