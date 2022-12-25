@@ -17,7 +17,7 @@
       Hey there! I'm Itzel
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
-    <h4>My goal is to remain on the cutting-edge of advancements. I like to take time to acquire new knowledge. Learn about new tools, and challenges motivate me.</h4>
+    <h4>My goal is to remain on the cutting-edge of advancements. I like to take time to acquire new knowledge. Learn about new tools and challenges motivate me.</h4>
 </div>
 
 ---
